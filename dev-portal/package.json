@@ -16,7 +16,7 @@
     "query-string": "^6.12.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-router-dom": "^4.3.1",
+    "react-router-dom": "^7.5.2",
     "semantic-ui-css": "git+https://github.com/Semantic-Org/Semantic-UI-CSS.git",
     "semantic-ui-react": "^0.87.3",
     "swagger-ui": "github:awslabs/swagger-ui#apigw-fork-v4"
